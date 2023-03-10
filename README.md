@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java,Vue,Flutter**
+- 💬 Ask me about **Java, Vue, Flutter, React Native**
 
 - 📫 How to reach me **İnstagram: ozkanyilmz_**
 
