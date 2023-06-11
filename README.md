@@ -2,5 +2,8 @@
 <h3 align="center">A passionate mobile frontend developer from Türkiye</h3>
 <h3 align="start">Medium</h3>
 
-- [Firebase de Arama Yapmak]([https://www.google.com](https://medium.com/@yilmazozkan2002/flutter-appbar-s%C4%B1n%C4%B1f%C4%B1-olu%C5%9Fturma-ve-b%C3%BCt%C3%BCn-uygulamada-performansl%C4%B1-%C5%9Fekilde-kullan-4dddf8f5e3c8) "Firebase Arama")
-
+[Flutter AppBar Sınıfı Oluşturma ve Tüm Uygulamada Performanslı Şekilde Kullanma](https://medium.com/@yilmazozkan2002/flutter-appbar-s%C4%B1n%C4%B1f%C4%B1-olu%C5%9Fturma-ve-b%C3%BCt%C3%BCn-uygulamada-performansl%C4%B1-%C5%9Fekilde-kullan-4dddf8f5e3c8)  
+[Flutter VoidCallBack ile Function Farkı](https://medium.com/@yilmazozkan2002/voidcallback-ile-function-fark%C4%B1-bf05c6d45098)  
+[Kod Editörünüz Emülatör veya Cihazınızı Görmüyorsa](https://medium.com/@yilmazozkan2002/code-edit%C3%B6r%C3%BCn%C3%BCz-em%C3%BClat%C3%B6r-veya-cihaz%C4%B1n%C4%B1z%C4%B1-g%C3%B6rm%C3%BCyorsa-b6b38e890a5a)  
+[Flutter Herhangi Bir Widgetın Ekran Görüntüsünü Alıp Galeriye Kaydetme](https://medium.com/@yilmazozkan2002/herhangi-bir-widget%C4%B1n-ekran-g%C3%B6r%C3%BCnt%C3%BCs%C3%BCn%C3%BC-al%C4%B1p-galeriye-kaydetme-d9c86d6f9031)  
+[Flutter Firebase Veri Tabanında Arama Yapmak](https://medium.com/@yilmazozkan2002/flutter-firebase-veri-taban%C4%B1nda-arama-yapmak-f50062614d72)
