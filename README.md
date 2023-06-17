@@ -11,4 +11,6 @@
 [Flutter da SQFLite İşlemleri](https://medium.com/@yilmazozkan2002/flutter-da-sqflite-i%CC%87%C5%9Flemleri-c3c11308085c)  
 [Flutter GetX(dependency injection, route management, sending arguments)](https://medium.com/@yilmazozkan2002/flutter-basit-d%C3%BCzeyde-getx-dependency-injection-route-management-sending-arguments-945058e7e894)  
 [Flutter Uygulamasını Güvenli Hale Getirme](https://medium.com/@yilmazozkan2002/flutter-uygulamas%C4%B1n%C4%B1-g%C3%BCvenli-hale-getirme-bf249a124b1)  
-[Microsoft’un Mobile DevOps Araçları](https://medium.com/@yilmazozkan2002/microsoftun-mobile-devops-ara%C3%A7lar%C4%B1-af0782edb383)
+[Microsoft’un Mobile DevOps Araçları](https://medium.com/@yilmazozkan2002/microsoftun-mobile-devops-ara%C3%A7lar%C4%B1-af0782edb383)  
+[Flutter Firebase’e Kategorili Şekilde Görsel Ekleme](https://medium.com/@yilmazozkan2002/flutter-firebase-kategorili-resim-ekleme-9c057d97fb34)
+
